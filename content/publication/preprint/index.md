@@ -1,7 +1,6 @@
 ---
 title: "Polarized Speech on On Online Platforms"
 authors: "Suyash Fulay, Deb Roy"
-- admin
 date: "2023-08-15T00:00:00Z"
 doi: ""
 
