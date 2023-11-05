@@ -1,6 +1,6 @@
 ---
 title: "ConGraT: Self-Supervised Contrastive Pretraining for Joint Graph and Text Embeddings"
-authors: ["William Brannong",
+authors: ["William Brannon",
  "Suyash Fulay",
  "Hang Jiang",
  "Wonjune Kang",

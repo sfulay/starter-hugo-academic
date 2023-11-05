@@ -79,5 +79,6 @@ email: ''
 highlight_name: true
 ---
 
-I am a PhD student at MIT.
+Hi! I'm a PhD student at MIT interested in developing and applying machine learning methods (NLP and graph based methods), usually with the goal of understanding human behavior or helping us communicate more effectively. Prior to graduate school, I worked at <a href="https://www.bridgewater.com">Bridgewater Associates</a>
+
 {style="text-align: justify;"}
