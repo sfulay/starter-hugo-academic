@@ -78,7 +78,11 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+<p>
+Hi! I'm a PhD student at MIT advised by <a href="https://www.media.mit.edu/people/dkroy/overview"> Deb Roy</a>. I am interested in developing and applying machine learning methods (NLP and graph based methods), usually with the goal of understanding human behavior or helping us communicate more effectively. Prior to graduate school, I worked at <a href="https://www.bridgewater.com">Bridgewater Associates</a> on the data science and machine learning team where I worked with <a href="https://statistics.yale.edu/people/jas-sekhon"> Jasjeet Sekhon </a> to help build interpretable and robust predictive models of the world economy.
+</p>
 
-Hi! I'm a PhD student at MIT interested in developing and applying machine learning methods (NLP and graph based methods), usually with the goal of understanding human behavior or helping us communicate more effectively. Prior to graduate school, I worked at <a href="https://www.bridgewater.com">Bridgewater Associates</a>
+<h3> Recent News </h3>
+
 
 {style="text-align: justify;"}
