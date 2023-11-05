@@ -42,10 +42,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 # links:
-- name: AAAI ICWSM
+- name: ICWSM
   url: https://ojs.aaai.org/index.php/ICWSM/article/view/22220
 
-url_pdf: 'https://ojs.aaai.org/index.php/ICWSM/article/view/22220/21999'
+#url_pdf: 'https://ojs.aaai.org/index.php/ICWSM/article/view/22220/21999'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_poster: ''
