@@ -84,5 +84,8 @@ Hi! I'm a PhD student at MIT advised by <a href="https://www.media.mit.edu/peopl
 
 <h3> Recent News </h3>
 
+* Co instructed a class on <a href="https://ai4comm.media.mit.edu/"> generative AI at MIT</a>
+* Released a preprint of Polarized Speech on Online Platforms, which is currently under review at Nature Human Behavior
+* 
 
 {style="text-align: justify;"}
