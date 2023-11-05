@@ -18,7 +18,7 @@ publication_types: ["3"]
 publication: "Polarized Speech on On Online Platforms"
 publication_short: ""
 
-abstract: While political polarization has increased as measured through surveys, currently we lack comprehensive,
+abstract: "While political polarization has increased as measured through surveys, currently we lack comprehensive,
 longitudinal, and ecologically valid measurement of the polarization of online political speech that spans
 social media platforms. Using language models, we analyze~ 2.5 billion comments on Reddit and
 Twitter across ~ 1.7 million accounts from 2007–2023 and find that polarized speech has been rising on
@@ -33,10 +33,10 @@ users on Twitter than on Reddit, where it is localized to a few communities. Pol
 topic, with right-leaning users twice as likely to use polarized rhetoric about immigration as left-leaning
 users while left-leaning users are somewhat more likely to be polarized around healthcare. Our large-scale
 analysis reveals previously unknown patterns of polarization across platforms, groups, and topics that
-will help us better contextualize polarized content and potentially intervene to reduce it.
+will help us better contextualize polarized content and potentially intervene to reduce it."
 
 # Summary. An optional shortened abstract.
-summary: Using language models, we perform one of the largest studies of polarized speech on social media platforms.
+summary: "Using language models, we perform one of the largest studies of polarized speech on social media platforms."
 
 tags:
 - Source Themes
@@ -44,8 +44,8 @@ featured: false
 
 links:
 - name: Arxiv 2023
-  url: https://arxiv.org/abs/2308.15556
-url_pdf: https://arxiv.org/pdf/2308.15556.pdf
+  url: 'https://arxiv.org/abs/2308.15556'
+url_pdf: 'https://arxiv.org/pdf/2308.15556.pdf'
 # url_code: ''
 # url_dataset: '#'
 # url_poster: '#'
